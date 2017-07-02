@@ -2,7 +2,7 @@
   "name": "flashcard-generator1",
   "version": "1.0.0",
   "description": "flash card game",
-  "main": "main.js",
+  "main": "game.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
