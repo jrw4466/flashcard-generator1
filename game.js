@@ -83,7 +83,7 @@ function askQuestionC() {
 
     if (currentQuestion < closeQuestions.length - 1) {
       currentQuestion++;
-      askQuestion();
+      askQuestionC();
     } else {
       console.log('Game Over!');
       console.log('Correct Answers: ' + correct);
@@ -129,7 +129,7 @@ function askQuestionB() {
       console.log('Wrong, Red is gonna put his foot up your ass! \n (You know he will...)\n');
       wrong++;
     }
-    console.log(basic[currentQuestion].front);
+    //console.log(basic[currentQuestion].front);
 
     if (currentQuestion < basic.length - 1) {
       currentQuestion++;
@@ -155,7 +155,7 @@ function askQuestionB() {
           reload();
 
         } else {
-          console.log('Thanks for playing, Comrade!');
+          console.log('Thanks for playing!');
         }
       })
     }

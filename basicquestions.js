@@ -1,30 +1,22 @@
 exports.basicquestions = [
     {
-        front: 'On the That 70\'s show, Bula(middle name) is the middle name of the character Donna.',
-        back: 'Bula'
+        front: 'True or False: Topher Grace was discovered for the show after performing in a high school play',
+        back: 'True'
     },
     {
-        front: 'Wilmer Valderrama plays Fez(3 letter word), who is a foreign exchange student from Venezuela.',
-        back: 'Fez'
+        front: 'True or False: Ashton Kutcher was not a model before he took this role',
+        back: 'False'
     },
     {
-        front: 'Fatso(opposite of skinny) Burger the name of the local burger restaurant owned by Jackie\'s dad.',
-        back: 'Fatso'
+        front: 'True or False: A 14-year-old Mila Kunis lied about her age when she auditioned for the role.',
+        back: 'True'
     },
     {
-        front: 'In the show Fez is stalked by his ex-girlfriend named Caroline.',
-        back: 'Caroline'
+        front: 'True or False: Mila Kunis first kiss was not on the show with Ashton Kutcher',
+        back: 'False'
     },
     {
-        front: 'Donna found a pair of panties in Eric\'s car who belonged to Midge(Mom of Donna). ',
-        back: 'Midge'
-    },
-    {
-        front: 'The guys traveled to Canada for beer, but Fez lost his green card. They later found his card in the bottom of his shoe(zapato).',
-        back: 'shoe'
-    },
-    {
-        front: 'When Donna first tells Eric she loves him, he says I love cake.',
-        back: 'cake'
-    },
+        front: 'The show was initially titled Teenage Wasteland and later The Kids Are Alright',
+        back: 'True'
+    }
 ]
